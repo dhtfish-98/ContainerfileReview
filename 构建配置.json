@@ -1,0 +1,30 @@
+{
+  "schema": "project-build-layout.v1",
+  "project": "ContainerfileReview",
+  "author": "dhtfish98",
+  "kind": "manual",
+  "base_public_commit": "e3bdc360d901c4a87769132542bb8a329f7f8de1",
+  "restored_inputs": [
+    {
+      "original": "LICENSE",
+      "stored": "项目文档/LICENSE",
+      "sha256": "61cc81f0067016c9425160ac683a0791c1f9332a48ffe655d21b2602286e21be"
+    },
+    {
+      "original": "ORIGIN.md",
+      "stored": "项目文档/ORIGIN.md",
+      "sha256": "4410a061510319489156c198e7eb1633e8949b7fd25f945e62715ec8a4678174"
+    },
+    {
+      "original": "README.md",
+      "stored": "项目文档/README.md",
+      "sha256": "a8a96d02dbb5df89d16eff00abcb6b9b5cf71eccc2b4d4752acf19d29e54759a"
+    },
+    {
+      "original": "VALIDATION.md",
+      "stored": "项目文档/VALIDATION.md",
+      "sha256": "2de433d620fc312e7e8e4c2226824e4995f93c050b15d5011fabe99a13fd7645"
+    }
+  ],
+  "platform_entries": []
+}
